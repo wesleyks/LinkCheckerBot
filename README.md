@@ -4,6 +4,8 @@ LinkCheckerBot
 A bot that validates the comments made by [/u/LinkFixerBot](http://www.reddit.com/user/LinkFixerBot). 
 See it in action at [/u/LinkCheckerBot](http://www.reddit.com/user/LinkCheckerBot/)
 
+**temporarily inactive due to complaints from LinkFixerBot**
+
 ## About
 
 LinkCheckerBot checks the comments made my LinkFixerBot to see if the fixed links link to existing users or subreddits.
